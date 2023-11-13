@@ -1,0 +1,1 @@
+// queue ==>  first in first out.  (array => push(add in last), shift(remove from beginning.)) 
